@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Thuc_Hanh_Buoi_1/1.0.0": {
+        "runtime": {
+          "Thuc_Hanh_Buoi_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Thuc_Hanh_Buoi_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
